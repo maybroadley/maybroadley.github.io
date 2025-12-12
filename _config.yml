@@ -1,8 +1,8 @@
 # ----
 # Site
 
-title: Aperture Template
-url: "https://cosmic-hippopotamus.cloudvent.net"
+title: May Broadley
+url: "https://maybroadley.github.io"
 baseurl:
 google_analytics_key:
 
@@ -10,13 +10,9 @@ google_analytics_key:
 logo: /siteicon.png
 description: Photography portfolio template for Jekyll.
 author:
-  name:
-  email:
-  twitter: # twitter username without the @ symbol
-social:
-  name: Aperture Template
-  links:
-    - https://github.com/CloudCannon/aperture-jekyll-template
+  name: May Broadley
+  email: M.J.E.Broadley@sms.ed.ac.uk
+
 
 # -----
 # Build
